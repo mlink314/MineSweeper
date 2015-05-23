@@ -1,2 +1,2 @@
 # MineSweeper
-MineSweeper solution draft
+MineSweeper solution draft (See Documentation.pdf)
